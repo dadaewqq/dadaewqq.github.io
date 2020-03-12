@@ -5,7 +5,7 @@
 
 
 
-```markdown
+
 # 提问的智慧
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -676,6 +676,6 @@ Jeff Bigler 的观察总结和这个相关也值得一读 (**[tact filters](http
 
 ## 鸣谢
 Evelyn Mitchel 贡献了一些愚蠢问题例子并启发了编写`如何更好地回答问题`这一节， Mikhail Ramendik 贡献了一些特别有价值的建议和改进。
-```
+
 
 
