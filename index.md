@@ -1,7 +1,7 @@
 ## Hello My friend
 
 [这本书能让你连接互联网 Ⅱ](https://dadaewqq.github.io/how_network_works_book) 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 
 
