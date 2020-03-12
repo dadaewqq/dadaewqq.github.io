@@ -9,7 +9,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu  
 
-本中文指南是基于原文 3.10 版以及 2010 年由 [Gasolin](https://github.com/gasolin) 所翻译版本的最新翻译；  
+本中文指南是基于原文 3.10 版以及 2010 年由 [Gasolin](https://github.com/gasolin) 所翻译版本的最新翻译。  
 
 
 
